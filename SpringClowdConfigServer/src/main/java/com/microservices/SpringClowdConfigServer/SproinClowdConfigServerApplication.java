@@ -12,4 +12,6 @@ public class SproinClowdConfigServerApplication {
 		SpringApplication.run(SproinClowdConfigServerApplication.class, args);
 	}
 
+
+	//http://localhost:8888/limits-service/default
 }

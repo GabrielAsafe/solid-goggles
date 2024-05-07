@@ -27,6 +27,6 @@ public class LimitsController {
     @GetMapping
     public int getBesta()
     {
-        return configuration.getBesta();
+        return configuration.getBestaQuadrada();
     }
 }
